@@ -1,0 +1,12 @@
+{
+  "name": "mypaginapersonal",
+  "version": "1.0.0",
+  "description": "mi pagina personal",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "charles silva",
+  "license": "MIT"
+}
